@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72082ba0ef987404bad8ee2b3a4ed384, type: 3}
+  m_Name: SettingBlue
+  m_EditorClassIdentifier: 
+  _spawnPoints:
+  - {fileID: 1224722541281599205, guid: 6a38a5dbbd361884088b23480473cd78, type: 3}
+  - {fileID: 5510720842395362418, guid: 2e4fabdbcf5c8d240b0a310b84caca9d, type: 3}
+  - {fileID: 6873768532136929018, guid: 7a290b766c0c6184f91dbfa5ab1cfe0a, type: 3}
+  - {fileID: 7493055615662929439, guid: ea5b40b6e20d5b349a5e2db5faa3c7d6, type: 3}
+  - {fileID: 2671593319921439995, guid: e227e955f94f9ec478fed9a033eb77ff, type: 3}
+  - {fileID: 4842503664459695755, guid: 1404c651adaab54449d7add8dd9db2d4, type: 3}
+  _barrierPrefabs:
+  - {fileID: 4719559039660869277, guid: ccad89781cca4db4f80be341150a3226, type: 3}
+  - {fileID: -6545902051941661673, guid: d9630018db6ab254ca5298308714dd9f, type: 3}
+  _full: {fileID: 2100000, guid: 1794b43c6c6aeeb44afea39c7d64984c, type: 2}
+  _parts: {fileID: 2100000, guid: ca5bdd84868ee434db82c7087f338d4f, type: 2}
+  _ice: {fileID: 2100000, guid: a34f4976d333ebd4b88660b4a5749d7c, type: 2}
+  _speed: 10
+  _portal: {fileID: 2100000, guid: 03bc8767f649c834191f417a906491a6, type: 2}
+  _portalColor: {r: 0.07647059, g: 0.47843137, b: 0.5, a: 0.5529412}
+  _baseColor: {r: 0.29803923, g: 1.9137255, b: 2, a: 1}
+  _topColor: {r: 2, g: 0, b: 1.882353, a: 1}
+  _botColor: {r: 0.11764706, g: 2, b: 0, a: 1}
+  _metallic: 0.52
+  _smoothness: 0.35
+  _topLine: 0.69
+  _botLine: 0.67
+  _alpha: 0.9
+  _alphaParts: 0.65
+  _metallicIce: 0.24
+  _smoothnessIce: 0.59
+  _normalIce: 0.7
+  _textureIce: {fileID: 2800000, guid: 08e72bb320881c44ba912cce9fa32b53, type: 3}
+  _baseColorIce: {r: 0.05882353, g: 0.03529412, b: 0.4627451, a: 1}
+  _fresnelColor: {r: 0.11764706, g: 0.8039216, b: 0.07058824, a: 1}
+  _wear: {fileID: 2100000, guid: 3019992fe00ab5242a9ee03043b78295, type: 2}
+  _hat: {fileID: 2100000, guid: 2048ed5efc23e11449f61491ee133073, type: 2}
+  _boots: {fileID: 2100000, guid: 7cafd4f81a708ab48b2eb8d695ac6ec0, type: 2}
+  _playerWear: {r: 0.92156863, g: 0.3137255, b: 1, a: 1}
+  _playerHat: {r: 0, g: 0.98039216, b: 0.57254905, a: 1}
+  _playerBoots: {r: 0.007843138, g: 0.20392157, b: 0.62352943, a: 1}

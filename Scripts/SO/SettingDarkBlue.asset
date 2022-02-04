@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72082ba0ef987404bad8ee2b3a4ed384, type: 3}
+  m_Name: SettingDarkBlue
+  m_EditorClassIdentifier: 
+  _barrierPrefabs:
+  - {fileID: 4719559039660869277, guid: ccad89781cca4db4f80be341150a3226, type: 3}
+  - {fileID: 3720468644168373647, guid: b6bcff1de26a67a4bb3cc3aac757a283, type: 3}
+  _full: {fileID: 2100000, guid: 1794b43c6c6aeeb44afea39c7d64984c, type: 2}
+  _parts: {fileID: 2100000, guid: ca5bdd84868ee434db82c7087f338d4f, type: 2}
+  _ice: {fileID: 2100000, guid: a34f4976d333ebd4b88660b4a5749d7c, type: 2}
+  _speed: 10
+  _portal: {fileID: 2100000, guid: 03bc8767f649c834191f417a906491a6, type: 2}
+  _portalColor: {r: 0.02745098, g: 0.039215688, b: 0.43529412, a: 0.6}
+  _baseColor: {r: 0.10494305, g: 0.15108925, b: 1.738121, a: 1}
+  _topColor: {r: 1.7076697, g: 1.8892621, b: 0.11406854, a: 1}
+  _botColor: {r: 2, g: 0.39480144, b: 0, a: 1}
+  _metallic: 0.781
+  _smoothness: 0.35
+  _topLine: 0.69
+  _botLine: 0.67
+  _alpha: 0.9
+  _alphaParts: 0.65
+  _metallicIce: 0.548
+  _smoothnessIce: 0.357
+  _normalIce: 0.8
+  _textureIce: {fileID: 2800000, guid: e127f39dc581108489785d6eaaefc958, type: 3}
+  _baseColorIce: {r: 0.05490196, g: 0.019607844, b: 0.60784316, a: 1}
+  _fresnelColor: {r: 0.1254902, g: 0.015686275, b: 0.24705882, a: 1}
+  _wear: {fileID: 2100000, guid: 3019992fe00ab5242a9ee03043b78295, type: 2}
+  _hat: {fileID: 2100000, guid: 2048ed5efc23e11449f61491ee133073, type: 2}
+  _boots: {fileID: 2100000, guid: 7cafd4f81a708ab48b2eb8d695ac6ec0, type: 2}
+  _playerWear: {r: 0, g: 0.20392157, b: 1, a: 1}
+  _playerHat: {r: 0.8235294, g: 0, b: 0.98039216, a: 1}
+  _playerBoots: {r: 0.70980394, g: 0.98039216, b: 1, a: 1}
